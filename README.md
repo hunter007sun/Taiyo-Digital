@@ -1,4 +1,4 @@
-﻿# NEXORA DIGITAL
+﻿# TAIYO DIGITAL
 
 A responsive digital agency website built with HTML, CSS, and vanilla JavaScript.
 
@@ -27,3 +27,5 @@ Portfolio items are illustrative concepts, not representations of completed clie
 - HTML5
 - CSS3
 - JavaScript
+
+

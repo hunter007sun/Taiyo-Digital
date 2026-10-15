@@ -1,8 +1,8 @@
-
+﻿
 "use strict";
 
 /* =========================================
-   NEXORA DIGITAL
+   TAIYO DIGITAL
    Interactive website functionality
    ========================================= */
 
@@ -111,7 +111,7 @@ if (contactForm && formStatus) {
     };
 
     const inquiry = [
-      "NEXORA DIGITAL — PROJECT INQUIRY",
+      "TAIYO DIGITAL PROJECT INQUIRY",
       "",
       `Name: ${name}`,
       `Email: ${email}`,
@@ -178,3 +178,5 @@ if (contactForm && formStatus) {
     formStatus.textContent = "";
   });
 }
+
+
